@@ -6,7 +6,7 @@ Please be sure to implement the best practice of adding `NoEcho: true` on any te
 
 ## Installation
 ```sh
-pip install --user sceptre-resolver-aws-secrets-manager
+pip install --user https://github.com/iAnomaly/sceptre-resolver-aws-secrets-manager/archive/v1.0.0.tar.gz
 ```
 
 ## Usage
